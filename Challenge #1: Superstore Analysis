@@ -30,7 +30,7 @@
 
 ---
 
-**Query #1**
+**Query #1 Use a SELECT statement to order the items by price in descending order.**
 
     SELECT price
     FROM superstore
